@@ -6,6 +6,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.image{
+    text-size-adjust: auto;
+    text-align: center;
+}
 .MainDesc{
     word-wrap: break-word;
     text-size-adjust: auto;
